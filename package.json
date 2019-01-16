@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "4.16.2"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
